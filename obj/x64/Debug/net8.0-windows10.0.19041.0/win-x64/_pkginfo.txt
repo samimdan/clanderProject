@@ -1,0 +1,1 @@
+C:\Users\USER\source\repos\sysinfo\sysinfo\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\AppPackages\sysinfo_1.0.0.0_x64_Debug_Test\sysinfo_1.0.0.0_x64_Debug.msix

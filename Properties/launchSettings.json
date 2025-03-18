@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "sysinfo (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "sysinfo (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
