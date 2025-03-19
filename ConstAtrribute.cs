@@ -173,20 +173,22 @@ public class Win32WindowStyles
     public const long WS_VSCROLL = 0x00200000L;
     public const long WS_EX_DLGMODALFRAME = 0x00000001L;
 }
-public static  class Win32WindowPlacement
+internal static  class Win32WindowPlacement
 {
-    public const int SWP_NOMOVE = 0x0002;
-    public const int SWP_NOSIZE = 0x0001;
-    public const int SWP_NOZORDER = 0x0004;
-    public const int SWP_FRAMECHANGED = 0x0020;
+    public const int NOMOVE = 0x0002;
+    public const int NOSIZE = 0x0001;
+    public const int NOZORDER = 0x0004;
+    public const int FRAMECHANGED = 0x0020;
+    public const int WPALLFLAGS= NOMOVE | NOSIZE | NOZORDER | FRAMECHANGED;
 
 }
-public static class WinDllNames
+internal  static class WinDllNames
 {
     public const string User32 = "user32.dll";
     public const string DwmApi = "dwmapi.dll";
 }
-public static class DwmWindowCornerOptions
+
+internal static class DwmWindowCornerOptions
 {
     /// <summary>
     /// Default window corner option.

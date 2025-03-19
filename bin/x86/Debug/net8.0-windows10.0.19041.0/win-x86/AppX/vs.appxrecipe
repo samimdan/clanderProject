@@ -29,13 +29,13 @@
     <AppXManifest Include="C:\Users\USER\Documents\GitHub\hejriClander\bin\x86\Debug\net8.0-windows10.0.19041.0\win-x86\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-03-18T08:48:51.093</Modified>
+      <Modified>2025-03-19T07:45:01.642</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\hejriClander\bin\x86\Debug\net8.0-windows10.0.19041.0\win-x86\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-03-18T08:24:44.220</Modified>
+      <Modified>2025-03-19T07:01:18.382</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\hejriClander\bin\x86\Debug\net8.0-windows10.0.19041.0\win-x86\sysinfo.runtimeconfig.json">
       <PackagePath>sysinfo.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\hejriClander\bin\x86\Debug\net8.0-windows10.0.19041.0\win-x86\sysinfo.dll">
       <PackagePath>sysinfo.dll</PackagePath>
-      <Modified>2025-03-18T08:48:50.236</Modified>
+      <Modified>2025-03-19T07:45:01.295</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\hejriClander\obj\x86\Debug\net8.0-windows10.0.19041.0\win-x86\apphost.exe">
       <PackagePath>sysinfo.exe</PackagePath>
-      <Modified>2025-03-18T08:48:50.314</Modified>
+      <Modified>2025-03-19T07:45:01.299</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\USER\.nuget\packages\microsoft.web.webview2\1.0.2651.64\runtimes\win-x86\native\WebView2Loader.dll">
       <PackagePath>runtimes\win-x86\native\WebView2Loader.dll</PackagePath>
@@ -875,7 +875,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\hejriClander\bin\x86\Debug\net8.0-windows10.0.19041.0\win-x86\sysinfo.deps.json">
       <PackagePath>sysinfo.deps.json</PackagePath>
-      <Modified>2025-03-17T19:57:14.633</Modified>
+      <Modified>2025-03-19T07:01:17.912</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\hejriClander\Assets\Fonts\BigShouldersStencil.ttf">
       <PackagePath>Assets\Fonts\BigShouldersStencil.ttf</PackagePath>
